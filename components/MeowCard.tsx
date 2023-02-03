@@ -5,7 +5,7 @@ import { fetchEnsName } from "@wagmi/core";
 
 type MeowCardProps = {
     message: String
-    author: String
+    author: any
     timestamp: BigNumber
 }
 
