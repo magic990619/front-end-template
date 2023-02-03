@@ -1,4 +1,4 @@
-# Fuji frontend assignement
+# Fuji frontend assignement (0xblake.eth)
 
 **Introduction**
 
